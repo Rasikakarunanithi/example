@@ -1,1 +1,10 @@
 hai
+hey note the updated command 
+<html>
+<head>
+<body>
+<h1> a+b = g+k
+c-g = o-u </h>
+</body>
+</head>
+</html>
