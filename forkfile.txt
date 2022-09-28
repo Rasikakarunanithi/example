@@ -1,0 +1,9 @@
+Steps to create fork
+
+Step 1 : Go to the link which you to want to contribute a file or folder to another repositary
+step 2 : choose create a new file or upload option
+step 3 : After creating  scroll down and choose propose the file option
+step 4 : The file is shown in your repositary we have to give pull request > create pull request and enter the message or comment you want
+step 5 : The request will send automatically to the user
+step 6 :click on comment
+step 7 : in the pull request option click on merge pull request
